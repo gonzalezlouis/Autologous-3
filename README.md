@@ -1,5 +1,5 @@
 # Autologous-3
-Code repository for "Collective effects in flow-driven cell migration"
+Code repository for "Collective Autologous Chemotaxis"
 
 
 This repository contains all the code used for simulating both the steady-state stationary n-body advection-diffusion equation where the flow is supplied by the solution of the Brinkman equation (Stokes' Flow in porous media) along with the lattice based random walk simulation to study the dynamics of autologous chemotaxis. 
